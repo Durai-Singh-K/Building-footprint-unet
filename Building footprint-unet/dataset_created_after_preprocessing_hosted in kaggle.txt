@@ -1,0 +1,3 @@
+the preprocessed images have been uploaded to kaggle and is publically available, to access it, kindly follow the below mentioned link
+
+https://www.kaggle.com/datasets/suriyakp/sp8-patched-256
